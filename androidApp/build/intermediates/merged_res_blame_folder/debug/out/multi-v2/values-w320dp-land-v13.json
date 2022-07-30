@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.signin.kmm.albategnius.android.androidApp-mergeDebugResources-17:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/signin/.gradle/caches/transforms-3/5b0420534665bcaa9bbdb1de743ba629/transformed/material-1.4.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}
